@@ -9,6 +9,7 @@ namespace CarcassonneMapRecognizer
     {
         static void Main(string[] args)
         {
+            // ona mne nuzhna
             Console.WriteLine("Hello World!");
 
             string path = @"E:\HackathonMarchAI\";
